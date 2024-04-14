@@ -105,7 +105,7 @@ header {
     position: absolute;
     filter: brightness(0.6);
     background: center center/cover no-repeat;
-    background-image: url(/images/background.jpg);
+    background-image: url(./images/background.jpg);
 }
 
 /* centers its child horizontally */
